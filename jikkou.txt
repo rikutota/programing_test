@@ -1,0 +1,3 @@
+#実行は以下のコマンドを実行したいフォルダに移動後貼り付け
+
+Get-Content input.txt | py main.py
